@@ -1,0 +1,6 @@
+@VSMVsMISL.API_HostAddress = http://localhost:5188
+
+GET {{VSMVsMISL.API_HostAddress}}/Vsm/
+Accept: application/json
+
+###
